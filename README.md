@@ -5,10 +5,10 @@
 https://velog.io/@pkb0126/EDAelectricpowerusage
 
 - 📁 데이터셋: 전력사용량 예측 AI 경진대회 (주최: 한국에너지공단 / 주관: 데이콘)
-⏰ 데이터 : 시계열 데이터
-✍🏻 평가지표 : SMAPE
-🙋🏻‍♀️ 주최 : 한국에너지공단
-⏳ 기간 : 2021.05.10 ~ 2021. 06.25
+- ⏰ 데이터 : 시계열 데이터
+- ✍🏻 평가지표 : SMAPE
+- 🙋🏻‍♀️ 주최 : 한국에너지공단
+- ⏳ 기간 : 2021.05.10 ~ 2021. 06.25
 
 https://dacon.io/competitions/official/235736/overview/description
 
