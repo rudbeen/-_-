@@ -1,10 +1,22 @@
-## Datathon 1조
+## AIFFEL - Datathon
 
 - 🏡 AIFFEL 강남 3기: Datathon (22.03.08 - 22.03.11)
 
-- 👩🏻‍💻 참여자: 박경빈, 박주현, 신혜지, 이정연
+- 👩🏻‍💻 역할
+  - EDA by features 
+  - 외부 데이터 탐색 및 시각화 
+  - 코드 취합 및 정리
+  - 결론 도출
+  - 발표자료(ppt) 수정
+
+- 📎 분석 정리 블로그
+https://velog.io/@pkb0126/EDAelectricpowerusage
 
 - 📁 데이터셋: 전력사용량 예측 AI 경진대회 (주최: 한국에너지공단 / 주관: 데이콘)
+⏰ 데이터 : 시계열 데이터
+✍🏻 평가지표 : SMAPE
+🙋🏻‍♀️ 주최 : 한국에너지공단
+⏳ 기간 : 2021.05.10 ~ 2021. 06.25
 https://dacon.io/competitions/official/235736/overview/description
 
 - 📝 과정
